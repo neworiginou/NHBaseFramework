@@ -10,7 +10,7 @@
 #ifdef __OBJC__
 #import <UIKit/UIKit.h>
 #import <Foundation/Foundation.h>
-#import "NHHeader.h"
+#import "NHMacroDefineHeader.h"
 #import "NHConfigHeader.h"
 
 #endif /* NHBaseFramework_PrefixHeader_pch */
